@@ -1,6 +1,9 @@
 # Complaint Regarding A1 4G/5G Internet Service Outage
 
-> **Language / Jezik:** [Slovenska različica](A1_pritozba.md)
+> **Navigation:** [Index](index.md) | [Slovenska različica](A1_pritozba.md) | [Epilogue & Resolution (Sep 9, 2026)](A1_epilog_en.md)
+
+> [!NOTE]
+> **Resolution as of Sep 9, 2026:** Service resumed normal operation on the existing modem without hardware modification. However, A1 unprompted dispatched a replacement modem. Details in [A1_epilog_en.md](A1_epilog_en.md).
 
 **Since Monday, September 7, 2026, A1 has failed to provide a basic, functional internet connection.**
 

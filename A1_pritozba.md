@@ -1,6 +1,9 @@
 # Pritožba zaradi nedelovanja 4G/5G internetne povezave A1
 
-> **Jezik / Language:** [English version](A1_pritozba_en.md)
+> **Navigacija:** [Kazalo / Index](index.md) | [English Version](A1_pritozba_en.md) | [Epilog in razplet (9. 9. 2026)](A1_epilog.md)
+
+> [!NOTE]
+> **Razplet z dne 9. 9. 2026:** Storitev je po več dneh ponovno začela delovati na obstoječem modemu brez menjave opreme. A1 je kljub temu brez pojasnila poslal nov modem. Več v [A1_epilog.md](A1_epilog.md).
 
 **A1 od ponedeljka, 7. 9. 2026, ni sposoben zagotoviti osnovne internetne povezave.**
 
