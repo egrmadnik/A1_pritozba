@@ -52,8 +52,19 @@ Ta razplet v celoti potrjuje navedbe iz prvotne pritožbe:
 
 ---
 
+## 📺 Posledice v gospodinjstvu: Ko tehnični izpad ogrozi družinski mir
+
+Izpad internetne povezave ni le suhoparen tehnični parameter, temveč ima zelo otipljive vsakodnevne posledice. 
+
+Zaradi tridnevnega popolnega izpada internetnega dostopa in televizijskih storitev je **žena upravičeno besna, saj že tri dni ni mogla spremljati svojih priljubljenih televizijskih oddaj**. Kot naročnik sem se znašel v nezavidljivem položaju, ko preprosto **ne vem več, kako naj jo potolažim** – tehnična razlaga o *»radijskih parametrih, 3G fallbacku in neodzivnosti operaterja«* pač ne more nadomestiti zamujenih večernih programov in normalnega udobja v lastnem domu.
+
+Pri A1 očitno pozabljajo, da njihove storitve plačujemo za nemoteno vsakodnevno življenje celotnega gospodinjstva, ne pa za to, da uporabniki več dni rešujemo tehnične zagonetke in doma mirimo upravičeno slabo voljo zaradi njihove pasivnosti.
+
+---
+
 ## ❓ Odprta vprašanja za A1
 
 1. **Zakaj obljubljeni povratni klic inženirske službe ni bil izveden?** Naročnik ima pravico vedeti, kaj je bil vzrok večdnevnega popolnega izpada plačane storitve.
 2. **Zakaj podpora ignorira tehnične podatke uporabnika?** Če bi klicni center vzel v obzir dejstvo, da 3G deluje in da je bazna postaja oddaljena 200 m, bi primer takoj eskalirali na NOC namesto pošiljanja opreme.
 3. **Ali je res smiselno menjati brezhiben modem?** Odklapljanje delujoče naprave in nameščanje identičnega modela prinaša tveganje novih zapletov (registracija novega IMEI v sistemu, morebitne začetne težave s SIM) ter nepotrebno pot na pošto.
+4. **Kdo odgovarja za povzročene nevšečnosti v gospodinjstvu?** Naročnina se zaračunava v celoti, večdnevni izpad pa poleg izgube časa povzroča povsem nepotreben stres in slabo voljo v družini.

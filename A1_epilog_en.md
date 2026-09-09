@@ -52,8 +52,19 @@ This turn of events completely vindicates the initial complaint:
 
 ---
 
+## 📺 Household Impact: When Technical Outages Disrupt Domestic Peace
+
+A broadband disruption is never just an abstract technical metric—it carries immediate, frustrating household consequences.
+
+Due to three full days of total internet and streaming unavailability, **my wife is furious, having been unable to watch her favorite television shows for three days straight**. As the subscriber, I found myself in the unenviable position of **not knowing how to comfort her**—dry technical rationalizations about *“radio parameters, 3G fallback, and carrier unresponsive behavior”* simply cannot make up for missed evening entertainment and normal household peace of mind.
+
+A1 evidently forgets that households subscribe and pay for services to support their daily living, not to spend several days solving telecom puzzles and enduring justified domestic frustration caused by operator inaction.
+
+---
+
 ## ❓ Open Questions for A1
 
 1. **Why was the promised engineering call-back never fulfilled?** Subscribers paying full price are entitled to know the root cause of a multi-day total service disruption.
 2. **Why does customer support disregard structured technical diagnostics?** Had the support center acted on the provided evidence (functional 3G, valid SIM, 200 m proximity), the case would have been routed immediately to network engineering rather than warehouse logistics.
 3. **What is the rationale for swapping identical, functional hardware?** Disconnecting a verified, stable modem and deploying an identical unit introduces pointless risks (new IMEI authorization delays, potential provisioning hiccups) and forces an unnecessary trip to the post office.
+4. **Who is accountable for the domestic disruption caused?** Subscriptions are billed at 100%, yet a multi-day outage produces needless stress and friction at home, on top of lost time.
